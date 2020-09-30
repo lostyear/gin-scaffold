@@ -1,3 +1,15 @@
+# log file
+log/
+logs/
+*log
+
+# runtime file
+*.sqlite
+
+# ide
+.vs_code
+.DS_STORE
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
